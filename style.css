@@ -50,8 +50,12 @@ li{
     }
 #picture:hover{
     transform: scale(0.9);
+    height:200px;
+    width:200px;
 }
 #picture{
     transition: transform .2s;
     border:10px solid white;
+    height:200px;
+    width:200px;
 }
